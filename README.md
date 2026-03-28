@@ -131,8 +131,8 @@ Ctrl + C
 
 ## Testing & Opponents
 
-Baseline Opponent (opponent1): Makes random moves. The agent defeats it easily, confirming correctness and basic strategy implementation.
-Strategic Opponent (opponent2): One of my earlier version of agent that plays strategically. While the current agent defeats opponent2 overall, it exposes weaknesses in endgame play, even with endgame heuristics implemented.
+* **Baseline Opponent (opponent1)**: Makes random moves. The agent defeats it easily, confirming correctness and basic strategy implementation.
+* **Strategic Opponent (opponent2)**: One of my earlier version of agent that plays strategically. While the current agent defeats opponent2 overall, it exposes weaknesses in endgame play, even with endgame heuristics implemented.
 
 This highlights the importance of incrementally testing against stronger opponents to identify edge cases. 
 
